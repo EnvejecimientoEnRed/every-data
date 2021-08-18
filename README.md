@@ -11,9 +11,9 @@ Enlaces a todos los repositorios públicos con datos utilizados en 'Envejecimien
 ## Artículos y datos
 
 Fecha|Artículos|Datos|Visualizaciones
------|---------|:--:|:----:
-`13/08/2021`|Evolución de residencias en España|[:link:]()|[:link:]()[:link:]()
-`14/08/2021`|Evolución de residencias en España|[:link:]()|[:link:]()[:link:]()
+-----|---------|:----:|:----:
+`13/08/2021`|[Evolución de residencias en España](https://envejecimientoenred.es/el-impacto-de-la-pandemia-en-las-residencias-para-personas-mayores/)|[:link:](https://github.com/EnvejecimientoEnRed/evolucion_residencias_data)[:link:](https://envejecimientoenred.github.io/evolucion_residencias_data/)|[:link:](https://github.com/EnvejecimientoEnRed/evolucion_residencias_viz_1)[:link:](https://envejecimientoenred.github.io/evolucion_residencias_viz_1/)
+`14/08/2021`|[Evolución de residencias en España](https://envejecimientoenred.es/el-impacto-de-la-pandemia-en-las-residencias-para-personas-mayores/)|[:link:](https://github.com/EnvejecimientoEnRed/evolucion_residencias_data)[:link:](https://envejecimientoenred.github.io/evolucion_residencias_data/)|[:link:](https://github.com/EnvejecimientoEnRed/evolucion_residencias_viz_1)[:link:](https://envejecimientoenred.github.io/evolucion_residencias_viz_1/)
 ---
 
 ## Librerías y herramientas utilizadas
