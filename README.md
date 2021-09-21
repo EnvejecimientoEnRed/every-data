@@ -3,12 +3,12 @@ Enlaces a todos los repositorios públicos con datos y visualizaciones utilizado
 
 ## Tabla de contenidos
 
-- [Artículos sobre Envejecimiento](#articulos-sobre-envejecimiento)
-- [Librerías y herramientas utilizadas](#librerias-y-herramientas-utilizadas)
+- [Artículos sobre Envejecimiento](#artículos-sobre-envejecimiento)
+- [Librerías y herramientas utilizadas](#librerías-y-herramientas-utilizadas)
 
 ---
 
-## Artículos sobre Envejecimiento
+# Artículos sobre Envejecimiento
 
 Fecha|Artículos|Datos|Visualizaciones
 -------|---------|:-------:|:------:
@@ -16,7 +16,7 @@ Fecha|Artículos|Datos|Visualizaciones
 
 ---
 
-## Librerías y herramientas utilizadas
+# Librerías y herramientas utilizadas
 
 D3: https://d3js.org/
 
