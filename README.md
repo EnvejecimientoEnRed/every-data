@@ -20,7 +20,7 @@ Fecha|Artículos|Datos|Visualizaciones
 Fecha|Artículos|Datos|Visualizaciones
 -------|---------|:-------:|:------:
 `15/10/2021`|[Las plazas concertadas en las residencias de personas mayores en España](https://envejecimientoenred.es/las-plazas-concertadas-en-las-residencias-de-personas-mayores-en-espana/)||[:link:](https://github.com/EnvejecimientoEnRed/residencias_plazas-concertadas_dashboard/)
-`19/10/2021`|[¿Cuán concertadas son las residencias de personas mayores concertadas en España?](https://envejecimientoenred.es/cuan-concertadas-son-las-residencias-de-personas-mayores-concertadas-en-espana/)||[:link](https://github.com/EnvejecimientoEnRed/residencias_plazas-concertadas_dashboard_2/)
+`19/10/2021`|[¿Cuán concertadas son las residencias de personas mayores concertadas en España?](https://envejecimientoenred.es/cuan-concertadas-son-las-residencias-de-personas-mayores-concertadas-en-espana/)||[:link:](https://github.com/EnvejecimientoEnRed/residencias_plazas-concertadas_dashboard_2/)
 
 ---
 
