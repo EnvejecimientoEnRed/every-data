@@ -14,6 +14,7 @@ Enlaces a todos los repositorios públicos con datos y visualizaciones utilizado
 Fecha|Artículos|Datos|Visualizaciones
 -------|---------|:-------:|:------:
 `21/09/2021`|[Los retos del Alzheimer](https://envejecimientoenred.es/los-retos-del-alzheimer/)||[:link:](https://github.com/EnvejecimientoEnRed/envejecimiento_alzheimer_evolucion/)[:link:](https://envejecimientoenred.github.io/envejecimiento_alzheimer_mapa/)
+`16/11/2021` | [La brecha digital por edad: los mayores continúan reduciéndola](https://envejecimientoenred.es/la-brecha-digital-por-edad-los-mayores-continuan-reduciendola/) || [:link:](https://envejecimientoenred.github.io/envejecimiento_brecha-digital-2021_evolucion/) [:link:](https://envejecimientoenred.github.io/envejecimiento_brecha-digital-2021_habilidades/) [:link:](https://envejecimientoenred.github.io/envejecimiento_brecha-digital-2021_servicios/)
 
 # Artículos sobre residencias de mayores
 
